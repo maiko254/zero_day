@@ -1,1 +1,1 @@
-**Strong** _Vagrant or how to code in your local computer_
+**Vagrant - or - how to code in your local computer**
